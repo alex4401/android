@@ -2,6 +2,7 @@
 <manifest>
 
   <project path="vendor/opengapps/build" name="aosp_build" revision="master" remote="opengapps" />
+  <project path="vendor/pixelstyle" name="pe-wip/vendor_pixelstyle" revision="master" remote="github" />
 
 <!-- sources -->
   <project path="vendor/opengapps/sources/all" name="all" clone-depth="1" revision="ten" remote="opengappsgl" />
