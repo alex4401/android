@@ -13,6 +13,7 @@
            review="android-review.googlesource.com"
            revision="refs/tags/android-10.0.0_r31" />
 
+  <remote name="alex4401" fetch="https://github.com/alex4401"  />
   <remote name="opengapps" fetch="https://github.com/opengapps"  />
   <remote name="opengappsgl" fetch="https://gitlab.opengapps.org/opengapps/"  />
 
@@ -697,6 +698,7 @@
   <include name="snippets/lineage.xml" />
   <include name="snippets/gapps.xml" />
   <include name="snippets/disabled.xml" />
+  <include name="snippets/devices.xml" />
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 </manifest>
