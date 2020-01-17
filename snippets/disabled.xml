@@ -8,7 +8,6 @@
     <remove-project name="LineageOS/android_packages_apps_FMRadio" />
     <remove-project name="LineageOS/android_packages_apps_Jelly" />
     <remove-project name="LineageOS/android_packages_apps_Snap" />
-    <remove-project name="LineageOS/android_packages_apps_FMRadio" />
     <remove-project name="LineageOS/android_packages_apps_Gallery2" />
 
 <!-- Darwin -->
