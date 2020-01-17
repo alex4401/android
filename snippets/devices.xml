@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-    <project path="vendor/google" name="proprietary_vendor_google" groups="vendor" remote="alex4401" />
+    <project path="vendor/google" remote="alex4401" name="proprietary_vendor_google" />
+    <project path="device/google/marlin" remote="alex4401" name="android_device_google_marlin" />
+    <project path="kernel/google/marlin" remote="alex4401" name="android_kernel_google_marlin" />
 </manifest>
