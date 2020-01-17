@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="vendor/opengapps/build" name="aosp_build" revision="master" remote="opengapps" />
+
+<!-- sources -->
+  <project path="vendor/opengapps/sources/all" name="all" clone-depth="1" revision="ten" remote="opengappsgl" />
+  <project path="vendor/opengapps/sources/arm" name="arm" clone-depth="1" revision="ten" remote="opengappsgl" />
+  <project path="vendor/opengapps/sources/arm64" name="arm64" clone-depth="1" revision="ten" remote="opengappsgl" />
+</manifest>
