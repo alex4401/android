@@ -5,7 +5,7 @@
   <project path="vendor/pixelstyle" name="pe-wip/vendor_pixelstyle" revision="ten" remote="github" />
 
 <!-- sources -->
-  <project path="vendor/opengapps/sources/all" name="all" clone-depth="1" revision="ten" remote="opengappsgl" />
-  <project path="vendor/opengapps/sources/arm" name="arm" clone-depth="1" revision="ten" remote="opengappsgl" />
-  <project path="vendor/opengapps/sources/arm64" name="arm64" clone-depth="1" revision="ten" remote="opengappsgl" />
+  <project path="vendor/opengapps/sources/all" name="all" clone-depth="1" revision="master" remote="opengappsgl" />
+  <project path="vendor/opengapps/sources/arm" name="arm" clone-depth="1" revision="master" remote="opengappsgl" />
+  <project path="vendor/opengapps/sources/arm64" name="arm64" clone-depth="1" revision="master" remote="opengappsgl" />
 </manifest>
