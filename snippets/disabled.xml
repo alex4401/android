@@ -5,6 +5,9 @@
     <remove-project name="LineageOS/android_packages_apps_Eleven" />
 
 <!-- Not used by me -->
+    <remove-project name="LineageOS/android_packages_apps_Calendar" />
+    <remove-project name="LineageOS/android_packages_apps_Camera2" />
+    <remove-project name="LineageOS/android_packages_apps_Recorder" />
     <remove-project name="LineageOS/android_packages_apps_FMRadio" />
     <remove-project name="LineageOS/android_packages_apps_Jelly" />
     <remove-project name="LineageOS/android_packages_apps_Snap" />
