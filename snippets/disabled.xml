@@ -25,16 +25,12 @@
     <remove-project name="platform/packages/apps/Car/LocalMediaPlayer" />
     <remove-project name="platform/packages/apps/Car/Media" />
     <remove-project name="platform/packages/apps/Car/Messenger" />
-    <remove-project name="platform/packages/apps/Car/Notification" />
     <remove-project name="platform/packages/apps/Car/Overview" />
     <remove-project name="platform/packages/apps/Car/Radio" />
     <remove-project name="platform/packages/apps/Car/Settings" />
     <remove-project name="platform/packages/apps/Car/Stream" />
     <remove-project name="platform/packages/apps/Car/SystemUpdater" />
-    <remove-project name="platform/packages/apps/Car/externallibs" />
-    <remove-project name="platform/packages/apps/Car/libs" />
     <remove-project name="platform/packages/apps/Car/tests" />
-    <remove-project name="platform/packages/services/Car" />
 
 <!-- Darwin -->
     <remove-project name="platform/prebuilts/go/darwin-x86" />
